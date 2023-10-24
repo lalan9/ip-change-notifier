@@ -1,0 +1,6 @@
+{
+    "smtp_server": "smtp.mail.com",
+    "smtp_username": "username@example.com",
+    "smtp_password": "password",
+    "to_mail": "to_mail@example.com"
+}
