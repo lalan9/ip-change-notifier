@@ -10,6 +10,7 @@ with open('config.json', 'r') as config_file:
     config = json.load(config_file)
 
 smtp_server = config['smtp_server']
+smtp_port = config['smtp_port']
 smtp_username = config['smtp_username']
 smtp_password = config['smtp_password']
 to_mail = config['to_mail']
